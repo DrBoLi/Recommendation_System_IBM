@@ -10,7 +10,9 @@ This project analyzes the interactions between users and articles on the IBM Wat
 
 ## File descriptions
 `Recommendations_with_IBM.ipynb`: Jupyter notebook containing main implementation and analysis.
+
 `data/user-item-interactions.csv`: Csv file with user-item interactions.
+
 `data/articles_community.csv`: Csv file with indexed items.
 
 ## Contents
